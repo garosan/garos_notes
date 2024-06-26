@@ -1,0 +1,11 @@
+- 📕 Book: Algorithmic Short Selling with Python
+- 📕 Book: Developing High-Frequency Trading Systems
+- 📕 Book: Hands-On Financial Trading with Python
+- 📕 Book: Learn Algorithmic Trading
+- 📕 Book: Machine Learning for Algorithmic Trading
+- 📕 Book: Python Algorithmic Trading Cookbook
+- 📕 Book: Python for Finance Cookbook
+- 📕 Book: Quantitative Trading
+- 📕 Book: Zero To Hero in Cryptocurrency Trading
+- 📕 Book: Trading for Dummies
+
