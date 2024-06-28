@@ -83,3 +83,53 @@ Ethereum is a distributed state machine, it tracks the state transitions of a ge
 - Economic Security: At the time of writing, Ethereum used a PoW algorithm called Ethash.
 - Clients: Ethereum has several implementations, two of the most prominent are Go-Ethereum (Geth) and Parity.
 
+## Ethereum and Turing Completeness
+
+What does Ethereum being Turing complete mean? Alan Turing defined a system to be Turing complete if it can be used to simulate any Turing machine. Such a system is called a Universal Turing machine (UTM).
+
+Ethereum's ability to execute a stored program, in a state machine (the EVM), while reading and writing data to memory makes it Turing-complete. Ethereum can compute any algorithm that can be computed by any Turing machine, given the limitations of finite memory.
+
+### Turing Completeness is not a Feature
+
+Turing completeness is very easy to achieve. The [simplest Turing-complete state machine](https://www.sciencedirect.com/science/article/pii/S0304397596000771) known, has 4 states and uses 6 symbols, with a state definition that is only 22 instructions long. Sometimes systems are found to be accidentally Turing complete.
+
+### Implications of Turing Completeness
+
+In simple terms, we cannot predict the path of a program without running it. Turing-complete systems can run in 'infinite loops' by accident. In Ethereum, this poses a challenge: every participating node must validate every transaction, running any smart contracts it calls. Whether by accident or on purpose, a smart contract can be created such that it runs forever when a node attempts to validate it. Even if a smart contract doesn't run an infinite loop, there can be a range of nasty, resource-hogging, memory-bloating, CPU-overheating programs that simply waste resources.
+
+How does Ethereum constrain the resources used by a smart contract if it cannot predict resource use in advance?
+
+Ethereum introduces a metering mechanism called *gas*.
+
+As the EVM executes a smart contract, it carefully accounts for every instruction (computation, data access, etc.). Each instruction has a predetermined cost in units of gas. **When a transaction triggers the execution of a smart contract, it must include an amount of gas** that sets the upper limit of what can be consumed running the smart contract. **The EVM will terminate execution if the amount of gas consumed by computation exceeds the gas available in the transaction**. Gas is the mechanism Ethereum uses to allow Turing-complete computation while limiting the resources that any program can consume.
+
+How does one get gas to pay for computation on the Ethereum world computer?
+
+Ether needs to be sent along with a transaction and it needs to be explicitly earmarked for the purchase of gas, along with an acceptable gas price. Gas is purchased for the transaction, the computation is executed, and any unused gas is refunded back to the sender of the transaction.
+
+## From General-Purpose Blockchains to Decentralized Applications (DApps)
+
+Ethereum started as a general-purpose blockchain that could be programmed, but very quickly evolved to become a platform for programming Dapps. DApps represent a broader perspective than smart contracts. A DApp is, at the very least, a smart contract and a web user interface.
+
+In addition, many DApps include other decentralized components, such as:
+
+- A decentralized (P2P) storage protocol and platform
+- A decentralized (P2P) messaging protocol and platform
+
+## The Third Age of the Internet
+
+This sections explains why we call it web3.
+
+## Ethereum’s Development Culture
+
+In Ethereum, the community's development culture is focused on the future rather than the past. If a change is needed, it is implemented, even if that means invalidating prior assumptions, breaking compatibility, or forcing clients to update.
+
+As a developer is that you must remain flexible and be prepared to rebuild your infrastructure as some of the underlying assumptions change. **You can’t simply "upgrade" your smart contracts. You must be prepared to deploy new ones, migrate users, apps, and funds, and start over.**
+
+**Note:** Ironically, this also means that the goal of building systems with more autonomy and less centralized control is still not fully realized. Autonomy and decentralization require a bit more stability in the platform than you’re likely to get in Ethereum in the next few years. In order to "evolve" the platform, you have to be ready to scrap and restart your smart contracts, which means you have to retain a certain degree of control over them.
+
+
+## Why Learn Ethereum?
+
+Blockchains have a very steep learning curve, as they combine multiple disciplines into one domain: programming, information security, cryptography, economics, distributed systems, peer-to-peer networks, etc. Ethereum makes this learning curve a lot less steep. It's easy to write code in Ethereum, but it's very hard to write good and secure code.
+
