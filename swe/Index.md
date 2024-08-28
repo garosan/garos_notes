@@ -2,4 +2,53 @@
 
 ## Topics
 
+- Programming Languages
+  - JavaScript
+  - Python
+  - Solidity
+  - Rust
+  - Go
+- Software Development Life Cycle (SDLC)
+  - Requirements Gathering
+  - Design
+  - Implementation
+  - Testing
+  - Deployment
+  - Maintenance
+- Version Control
+  - Git
+  - GitHub
+- Algorithms and Data Structures
+  - Basic Algorithms
+  - Advanced Algorithms
+  - Data Structures
+  - Big-O Notation and Complexity Analysis
+- Software Architecture
+  - Design Patterns
+  - Architectural Styles
+  - SOLID Principles
+  - Domain-Driven Design
+- Testing
+- Databases
+  - SQL Databases
+  - NoSQL Databases
+  - Database Design and Normalization
+  - ORMs (Object-Relational Mappers)
+- DevOps and Cloud Computing
+  - Introduction to DevOps
+  - CI/CD Pipelines
+  - Containerization (Docker)
+  - Kubernets
+  - Cloud Platforms (AWS, Azure, Google Cloud)
+- Security
+  - Web Security Fundamentals
+  - Encryption and Authentication
+  - OWASP Top Ten
+- Web Development
+  - Frontend
+    - Frontend Frameworks (React, Vue, Angular)
+  - Backend
+    - (NodeJS, Express, Flask, Django)
+- Software Engineering Career
+
 ## Resources
