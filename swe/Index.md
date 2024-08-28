@@ -49,7 +49,7 @@
     - Frontend Frameworks (React, Vue, Angular)
   - Backend
     - (NodeJS, Express, Flask, Django)
-- Software Engineering Career
+- [Software Engineering Career](./career/Index.md)
 - Other Technologies
   - Quantum Computing
   - Artificial Intelligence
