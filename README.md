@@ -3,6 +3,7 @@
 ## Topics
 
 - [💻 Software Engineering](/swe/Index.md)
+- [⛓️ Blockchain and Web3](/blockchain/Index.md)
 - [💵 Finance & Markets](/finance/Index.md)
 - [⚔️ History](/history/Index.md)
 - [❔ Random](/random/Index.md)

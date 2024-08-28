@@ -50,5 +50,11 @@
   - Backend
     - (NodeJS, Express, Flask, Django)
 - Software Engineering Career
+- Other Technologies
+  - Quantum Computing
+  - Artificial Intelligence
 
 ## Resources
+
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Open Source Society University](https://ossu.firebaseapp.com/#/)
