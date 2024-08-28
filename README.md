@@ -1,1 +1,7 @@
-# A collection of notes on software engineering, web3, finance and stuff
+# Garo's Notes 🤓
+
+## Topics
+
+- Software Engineering
+- Finance & Markets
+- History
