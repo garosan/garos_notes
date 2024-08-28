@@ -2,6 +2,9 @@
 
 ## Topics
 
-- Software Engineering
-- Finance & Markets
-- History
+- 💻 Software Engineering
+- 💵 Finance & Markets
+- ⚔️ History
+- ❔ Random
+- 🧬 Biology
+- ♾️ Math
