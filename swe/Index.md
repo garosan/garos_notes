@@ -3,10 +3,10 @@
 ## Topics
 
 - Programming Languages
-  - JavaScript
-  - Python
-  - Solidity
-  - Rust
+  - [JavaScript](./programming_languages/javascript/JavaScript.md)
+  - [Python](./programming_languages/python/Python.md)
+  - [Solidity](./programming_languages/solidity/Solidity.md)
+  - [Rust](./programming_languages/rust/Rust.md)
   - Go
 - Software Development Life Cycle (SDLC)
   - Requirements Gathering
