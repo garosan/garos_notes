@@ -1,3 +1,0 @@
-- 0xngmi
-  - Founder of DeFiLlama
-  - [Twitter](https://x.com/0xngmi)

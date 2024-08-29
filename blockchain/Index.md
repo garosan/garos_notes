@@ -18,6 +18,9 @@
     - Arbitrum
     - Polygon
     - Optimism
+    - Avalanche
+    - Base
+    - Solana
 - Distributed Systems
   - Basics of Distributed Systems
   - Consensus Algorithms (Proof of Work, Proof of Stake)
