@@ -14,6 +14,10 @@ Courses:
 
 - [Cryptozombies](https://cryptozombies.io/)
 - [Alchemy University](https://www.alchemy.com/university)
+- [SpeedRunEthereum Game](https://speedrunethereum.com/)
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
+- [CaptureTheEther](https://capturetheether.com/)
+- [NodeGuardians](https://nodeguardians.io/)
 
 Books:
 
