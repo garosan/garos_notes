@@ -4,6 +4,10 @@
 
 - Blackholes
 - Wormholes
+- Star
+- Stellar remnant
+- Dwarf
+- Pulsar
 
 Cuando chocan 2 agujeros negros, estrellas se producen ondas gravitacionales.
 
