@@ -21,6 +21,6 @@ Interesantes:
 4. Lido, Category: Liquid Staking
 5. Uniswap, Category: Dexes
 6. Pancakeswap
-9. MEVX, Cat: Telegram bot
-20. Photon, Telegram bot
-24. bloXroute, MEV
+7. MEVX, Cat: Telegram bot
+8. Photon, Telegram bot
+9. bloXroute, MEV
