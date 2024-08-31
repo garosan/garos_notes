@@ -6,7 +6,7 @@ An estimated 100 billion in all of the observable universe.
 
 The discovery of the nature of galaxies as distinct from other nebulae (interstellar clouds) was made in the 1920s.
 
-## Notable Glaxy Groups
+## Notable Galaxy Groups
 
 - Local Group: The group where the Milky Way is located.
 - Stephan's Quintet:
@@ -28,6 +28,6 @@ The group itself is a part of the larger Virgo Supercluster, which may be a part
 - NGC 3109. Diameter: 25.4k ly
 - Small Magellanic Cloud. Diameter: 18.9k ly
 
-[!Visual size comparison of the six largest Local Group galaxies](https://upload.wikimedia.org/wikipedia/commons/a/a2/Local_Group_Galaxies_Comparison.png)
+![Visual size comparison of the six largest Local Group galaxies](https://upload.wikimedia.org/wikipedia/commons/a/a2/Local_Group_Galaxies_Comparison.png)
 
 The term "The Local Group" was introduced by Edwin Hubble in his 1936 book _The Realm of the Nebulae_.
