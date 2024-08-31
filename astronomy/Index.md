@@ -11,14 +11,6 @@
 
 Cuando chocan 2 agujeros negros, estrellas se producen ondas gravitacionales.
 
-## Galaxies
-
-There are about 51 galaxies in the Local Group.
-On the order of 100,000 in the Local Supercluster
-An estimated 100 billion in all of the observable universe.
-
-The discovery of the nature of galaxies as distinct from other nebulae (interstellar clouds) was made in the 1920s.
-
 - [WP - Planet](https://en.wikipedia.org/wiki/Planet)
 - [WP - Planetary system](https://en.wikipedia.org/wiki/Planetary_system)
 - [WP - Solar System](https://en.wikipedia.org/wiki/Solar_System)
