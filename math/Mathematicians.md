@@ -1,5 +1,7 @@
 # Remarkable Mathematicians
 
+- Brahmagupta
+- Pierre de Fermat
 - Leonard Euler
 - Jean-le-Rond d'Alembert
 - Joseph-Louis Lagrange
@@ -34,3 +36,9 @@
 - Solomon Lefschetz
 - Srinivasa Iyengar Ramanujan
 - John von Neumann
+- Paul Erdös
+- Andrew Wiles
+- Grigori Perelman
+- Ian Stewart
+- Timothy Gowers
+- John Stillwell
