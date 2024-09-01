@@ -1,5 +1,10 @@
 - 🪐 Astronomy Notes
 
+- [Galaxies](./Galaxies.md)
+- [Planet](./Planet.md)
+- [Star](./Star.md);
+- [Glossary](./Glossary.md);
+
 ## Random concepts
 
 - Blackholes
