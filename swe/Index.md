@@ -34,7 +34,7 @@
   - NoSQL Databases
   - Database Design and Normalization
   - ORMs (Object-Relational Mappers)
-- DevOps and Cloud Computing
+- [DevOps and Cloud Computing](./devops/Devops.md)
   - Introduction to DevOps
   - CI/CD Pipelines
   - Containerization (Docker)
