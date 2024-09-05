@@ -9,4 +9,5 @@
 - [🪐 Astronomy](/astronomy/Index.md)
 - [🧬 Biology](/biology/Index.md)
 - [♾️ Math](/math/Index.md)
+- [🧠 Neuroscience](/neuroscience/Index.md)
 - [❔ Random](/random/Index.md)
