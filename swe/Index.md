@@ -8,6 +8,13 @@
   - [Solidity](./programming_languages/solidity/Solidity.md)
   - [Rust](./programming_languages/rust/Rust.md)
   - Go
+- Web Development
+  - Frontend
+    - [React](./frameworks/React.md)
+    - Vue
+    - Angular
+  - Backend
+    - [NodeJS](./frameworks/NodeJS.md)
 - Software Development Life Cycle (SDLC)
   - Requirements Gathering
   - Design
@@ -44,11 +51,6 @@
   - Web Security Fundamentals
   - Encryption and Authentication
   - OWASP Top Ten
-- Web Development
-  - Frontend
-    - Frontend Frameworks (React, Vue, Angular)
-  - Backend
-    - (NodeJS, Express, Flask, Django)
 - [Software Engineering Career](./career/Index.md)
 - Other Technologies
   - Quantum Computing
