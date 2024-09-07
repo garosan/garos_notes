@@ -174,3 +174,12 @@ Packt - Daishi Kato - Micro State Management with React Hooks
 Packt - Carlos Santana Roldán - React 18 Design Patterns and Best Practices
 Packt - Juntao Qiu - React Anti-Patterns
 Packt - Alan Alickovic - React Application Architecture For Production
+
+### Interview Questions
+
+- Explain Node's event loop
+- Explain Javascript this keyword
+- Explain Promises in JavaScript
+- Explain callbacks
+- Explain references in React
+- How to debug a performance issue in React
