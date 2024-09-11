@@ -60,3 +60,53 @@
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Open Source Society University](https://ossu.firebaseapp.com/#/)
+
+## Books
+
+- Software Architecture
+  - Designing data intensive applications
+  - Software Architect's Handbook
+  - Solutions Architect Handbook
+- Blockchain (for the most parts this books should be outdated)
+  - Blockchain by example
+  - Blockchain development for Finance projects
+  - Ethereum for Web Developers
+  - Mastering Bitcoin
+  - Mastering Ethereum
+  - Practical Artificial Intelligence and Blockchain
+  - Securing Blockchain Networks like Ethereum and Hyperledger Fabric
+- Cybersecurity
+  - An Ethical Guide to Cyber Anonimity
+  - Hands-on Cybersecurity for Finance
+  - Industrial Cybersecurity
+  - Learn Computer Forensics
+  - The Cybersecurity Playbook for Modern Enterprises
+- JavaScript
+  - Clean Code in JavaScript
+  - Essential Cryptography for JavaScript Developers
+  - JavaScript from Beginner to Professional
+  - Learning JavaScript Data Structures and Algorithms
+  - Object Oriented JavaScript
+  - Professional JavaScript
+- Linux/DevOps/Serverless
+  - A Developer's Essential Guide to Docker Compose
+  - Enterprise DevOps for Architects
+  - Learn Linux Quickly
+  - Modern DevOps Practices
+  - Serverless Design Patterns and Best Practices
+- Other Topics
+  - Build Your Own Programming Language
+  - Designing Web APIs with Strapi
+  - Developer career masterplan
+  - Mastering Rust
+  - Modern Computer Architecture and Organization
+  - Practical Discrete Mathematics
+  - Quantum Computing Experimentation with Amazon Bracket
+  - Rust Web Programming
+  - Technical Program Manager's Handbook
+- Python/AI
+  - Applied computational thinking with Python
+  - Hands on data structures and algorithms with python
+  - Mastering Python
+  - Modern Data Architectures with Python
+  - Python Object Oriented Programming
