@@ -6,7 +6,7 @@
 
 - [JavaScript](./programming_languages/javascript/JavaScript.md)
 - [Python](./programming_languages/python/Python.md)
-- React
+- [React](./frameworks/React.md)
 - Node
 - Algorithms and Data Structures
   - Basic Algorithms
