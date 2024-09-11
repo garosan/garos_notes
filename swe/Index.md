@@ -110,3 +110,25 @@
   - Mastering Python
   - Modern Data Architectures with Python
   - Python Object Oriented Programming
+- Trading/Finance
+  - Algorithmic short selling with Python
+  - Developing high frequency trading systems
+  - Hands-on financial trading with Python
+  - Learn algorithmic trading
+  - Machine Learning for Algorithmic trading
+  - Technical analysis of the financial markets
+  - Option volatility and pricing
+  - Python Algorithmic Trading Cookbook
+  - Quantitative trading
+  - Trading for dummies
+  - Zero to Hero in cryptocurrency trading
+- Web technologies
+  - A blueprint for production ready web applications
+  - A frontend web developer's guide to testing
+  - Building enterprise JavaScript applications
+  - Hands-on JavaScript high performance
+  - JavaScript from frontend to backend
+  - Modern frontend development with NodeJS
+  - Node Cookbook
+  - NodeJS web development
+  - The art of microfrontends
