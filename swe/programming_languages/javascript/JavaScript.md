@@ -7,34 +7,9 @@ In my desire to create an exhaustive learning hub of JavaScript topics I am taki
 
 As well as from several books:
 
-## The Complete JavaScript Course from Zero to Expert
-
-By Jonas Schmedtmann, will be used as a primary syllabus/guide
-
-- Fundamentals Part 1
-- Fundamentals Part 2
-- Developer Skills
-- DOM Manipulation
-- How JavaScript Works
-- Modern Operators (ES6+)
-- Functions
-- Arrays
-- Numbers, dates, timers
-- Advanced DOM
-- Object Oriented JS
-- Asynchronous JS
-- Modern JS Applications
-- Projects
-
-## JavaScript.info
-
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-
-## Resources
-
-- Book: Clean Code in JavaScript
-- Book: Essential Cryptography for JavaScript Developers
-- Book: JavaScript from Beginner to Professional
-- Book: Learning JavaScript Data Structures and Algorithms
-- Book: Object Oriented JavaScript
-- Book: Professional JavaScript
+- Clean Code in JavaScript
+- Essential Cryptography for JavaScript Developers
+- JavaScript from Beginner to Professional
+- Learning JavaScript Data Structures and Algorithms
+- Object Oriented JavaScript
+- Professional JavaScript
