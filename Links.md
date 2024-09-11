@@ -1,5 +1,0 @@
-## Blogs
-
-## Websites
-
-## Personal Sites
