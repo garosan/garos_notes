@@ -14,4 +14,3 @@
 - The root user
 - Piping and I/O redirection
 - Analyzing and manipulating files
--
