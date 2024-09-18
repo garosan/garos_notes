@@ -13,3 +13,7 @@ As well as from several books:
 - Learning JavaScript Data Structures and Algorithms
 - Object Oriented JavaScript
 - Professional JavaScript
+
+Other stuff:
+
+What is a hashmap in JavaScript.
