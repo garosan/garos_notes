@@ -17,3 +17,5 @@ As well as from several books:
 Other stuff:
 
 What is a hashmap in JavaScript.
+
+- Will keep adding more notes here.
