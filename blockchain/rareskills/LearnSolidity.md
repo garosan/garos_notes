@@ -1,0 +1,117 @@
+# Learn Solidity - The Ultimate Solidity Course
+
+- Beginner Solidity Tutorial
+  - 1. Development Environment
+  - 2. Fixed Size Datatypes
+  - 3. Set up Foundry
+  - 4. Arithmetic
+  - 5. If Statements
+  - 6. For loops
+  - 7. Introduction to arrays and strings
+  - 8. Nested Arrays
+  - 9. Storage Variables
+  - 10. Arrays in Storage
+  - 11. Mappings
+  - 12. Nested Mappings
+  - 13. msg.sender and address(this)
+  - 14. Constructor
+  - 15. Require
+  - 16. ERC-20 Tokens
+  - 17. Tuples
+  - 18. Application binary interface (ABI encoding)
+  - 19. Contracts calling other contracts
+  - 20. Token Exchange Mini Project
+  - 21. Payable functions
+  - 22. Receive
+  - 23. Block.timestamp and block.number
+  - 24. Emitting Events
+  - 25. Inheritance
+  - 26. Modifiers
+  - 27. Immutable variables
+  - 28. Constants
+  - 29. Deploying an ERC-721 to OpenSea
+  - 30. Launch and verify and NFT with Foundry
+  - 31. Units of Ethereum: wei, gwei, and ether
+  - 32. Structs
+  - 33. Strings
+  - 34. Unit Testing in Solidity
+- Getting Started: Your First Solidity Projects
+  - 1. Professional Solidity Style Guide
+  - 2. 20 Common Solidity Beginner Mistakes
+  - 3. Solidity Beginner Projects
+- Intermediate Topics: Token ERCs, Integers in Depth, and Others
+  - 1. Detecting if an address is a smart contract
+  - 2. Solidity Function Selector
+  - 3. ERC-721 design and security issues
+  - 4. ERC-4626
+  - 5. ERC-721 Enumerable
+  - 6. ERC-1363
+  - 7. Uint256 Max Value
+  - 8. Signed Integers
+  - 9. Solidity Staticcall EIP-214
+  - 10. OpenZeppelin Ownable2Step
+  - 11. Testing internal functions
+  - 12. Solidity events
+  - 13. Solidity gasleft()
+  - 14. Where to find reentrancy attacks
+  - 15. Generate a random number in Solidity
+- DeFi Primitives: Design Patterns Used Everywhere
+  - 1. The staking algorithm of MasterChef and Synthetix
+  - 2. Fixed Point Arithmetic
+  - 3. Flashloans
+  - 4. Chainlink Price Feeds
+  - 5. How DeFi Interest Rates Work
+- Uniswap V2 Walkthrough
+  - 1. Architecture
+  - 2. Price Impact of a Swap
+  - 3. Swap Function
+  - 4. Mint and Burn Functions
+  - 5. Protocol mintFee
+  - 6. TWAP Oracle
+  - 7. UniswapV2Library
+  - 8. Routers
+  - 9. Building a Uniswap V2 Clone
+- Delegatecalls and Proxies
+  - 1. ABI Encoding
+  - 2. EVM Storage
+  - 3. Low-level call in Solidity
+  - 4. Delegatecall
+  - 5. ERC-1967
+  - 6. ERC-7201
+  - 7. Transparent Upgradeable Proxy
+  - 8. Beacon Proxies
+  - 9. Clones
+  - 10. Metaproxy Clones
+  - 11. Nodelegatecall
+- Solidity Governance: How DAOs coordinate onchain
+  - 1. ERC-20 Snapshots
+  - 2. ERC-20 Votes
+  - 3. Solidity Governance
+- Compound V3 Walkthrough
+  - 1. Architechture of Compound V3
+  - 2. Compound V3 Interest Per Second
+  - 3. Principal vs Present Value and Interest Rate Indexes
+  - 4. cUSDC V3 (Comet) as a non-standard Rebasing Token. CometExt.sol
+  - 5. Collateral, Liquidations, and Reserves in Compound V3
+  - 6. Compound V3 Rewards
+  - 7. UniswapV2Library
+  - 8. Routers
+  - 9. Bulkers in Compound V3
+- Gas Optimization: The Ultimate guide to improving smart contract efficiency
+  - 1. Our Gas Optimization Course on Udemy
+  - 2. Ethereum access list transactions
+  - 3. Ultimate List of Solidity Gas Optimization Tricks
+- Low Level Programming and Bytecode: What happens behind the Solidity compiler
+  - 1. Smart contract metadata
+  - 2. Smart contract creation cost
+  - 3. Smart contract creation code
+  - 4. EIP 150 and the 63/64 rule for gas
+- Testing Beyond Unit Testing: Tools to secure your smart contracts
+  - 1. Invariant Testing in Foundry
+  - 2. Mutation Testing
+- Advanced Topics in Solidity
+  - 1. Second Preimage Attack
+  - 2. Precompiled smart contracts
+  - 3. RSA Signatures in Solidity
+- Tornado Cash Walkthrough
+  - 1. How does tornado cash work
