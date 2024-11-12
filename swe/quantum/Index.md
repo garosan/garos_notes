@@ -26,3 +26,5 @@
 ## Books
 
 _Quantum Computing Experimentation with Amazon Braket: Explore Amazon Braket quantum computing to solve combinatorial optimization problems_ by Alex Khan. Packt, 1st Edition.
+
+Keep going.
