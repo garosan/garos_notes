@@ -1,0 +1,21 @@
+# List of Artists
+
+- Agasse, Jacques-Laurent
+- Albers, Josef
+- Algardi, Alessandro
+- Allston, Washington
+- Alma-Tadema, Lawrence
+- Altdorfer, Albrecht
+- Amigoni, Jacopo
+- Andre, Carl
+- Andrea del Sarto
+- Fra Angélico
+- Anguissola, Sofonisba
+- Antonello da Messina
+- Appel, Karel
+- Archipenko, Alexander
+- Arcimboldo, Giuseppe
+- Arp, Jean
+- Audubon, John James
+- Auerbach, Frank
+- Avercamp, Hendrick

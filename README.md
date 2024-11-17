@@ -11,3 +11,4 @@
 - [♾️ Math](/math/README.md)
 - [🧠 Neuroscience](/neuroscience/README.md)
 - [❔ Random](/random/README.md)
+- [🎨 Art and Literature](/art/README.md)
