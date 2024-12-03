@@ -12,5 +12,3 @@
 - [🧠 Neuroscience](/neuroscience/README.md)
 - [❔ Random](/random/README.md)
 - [🎨 Art and Literature](/art/README.md)
-
-TEST2
