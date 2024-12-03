@@ -1,7 +1,5 @@
 # 1 - EL ORIGEN DEL HOMBRE
 
-Este texto traza la evolución del universo, la Tierra, la vida y los primeros seres humanos hasta la expansión global del Homo sapiens. Aquí un resumen por secciones clave:
-
 ### **Orígenes del Universo y la Tierra**
 
 - **Big Bang (hace 12,000 millones de años)**: Toda la energía y materia del universo se concentró en un punto, originando la expansión cósmica. A los 15 minutos se formaron los núcleos de hidrógeno y helio; tras 400,000 años, se condensaron en nubes precursoras de estrellas y galaxias.
@@ -16,7 +14,7 @@ Este texto traza la evolución del universo, la Tierra, la vida y los primeros s
   - **Mesozoica (hace 245 millones de años)**: Aparecieron los dinosaurios, mamíferos y plantas con flores. Finalizó con la extinción masiva de los dinosaurios.
   - **Cenozoica (hace 65 millones de años)**: Los mamíferos dominaron y los primates proliferaron, sentando las bases para la evolución humana.
 
-### **Evolución de los Homininos**
+### **Evolución de los Homínidos**
 
 - **Primates y homínidos tempranos**:
   - **Ramapithecus (hace 14 millones de años)**: Primer indicio de posición erguida.

@@ -1,6 +1,4 @@
-# LOS SUMERIOS
-
-Este texto describe el surgimiento y desarrollo de la civilización sumeria en la Baja Mesopotamia y su influencia en otras culturas, junto con un panorama del avance de Egipto y otras regiones en la misma época. Aquí un resumen:
+# 3 - LOS SUMERIOS
 
 ### **Sumer y sus contribuciones**
 
